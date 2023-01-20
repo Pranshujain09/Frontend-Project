@@ -1,0 +1,8 @@
+.tab{
+    /* border:2px solid black; */
+    
+    border-bottom: 5px solid black;
+    border-left:5px solid grey;
+    border-right:5px solid black;
+    border-top:5px solid grey;
+}

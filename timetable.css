@@ -1,0 +1,23 @@
+#rotate{
+  border: none;
+  transform: rotate(90deg);  
+  
+}
+.tab{
+height:90%;
+table-layout: fixed;
+width: 75%;
+background-color: rgb(236, 234, 234);
+text-align: center;
+
+}
+th,td{
+    padding: 15px;
+
+}
+th{
+    background-color: rgb(236, 234, 234);
+}
+.odd{
+    background-color: white;
+}
